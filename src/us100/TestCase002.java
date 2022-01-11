@@ -5,5 +5,7 @@ public class TestCase002 {
 
         System.out.println("Hello");
 
+        System.out.println("Wooden Spoon");
+
     }
 }
